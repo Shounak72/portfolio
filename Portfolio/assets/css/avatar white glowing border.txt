@@ -1,0 +1,11 @@
+.avatar-box {
+  background: var(--bg-gradient-onyx);
+  border-radius: 20px;
+  padding: 7px; /* Adjusts the space between the avatar and the border */
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.6); /* Adds a glowing effect */
+}
+
+.avatar-box img {
+  border-radius: 15px; /* Ensures the image fits nicely within the border */
+  display: block;
+}
